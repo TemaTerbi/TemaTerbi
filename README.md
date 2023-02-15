@@ -28,6 +28,7 @@
 [Telegram]: https://t.me/TemaTerbi
 
 # Working on analog zenly application - Hype Map! Check my organization or first pinned repo.
+Group of project in telegram:
 [TelegramHype]: https://t.me/hypemap
 [<img align="left" alt="TemaTerbi | Telegram" width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][TelegramHype]
 
