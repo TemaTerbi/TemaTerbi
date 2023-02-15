@@ -27,7 +27,8 @@
 
 [Telegram]: https://t.me/TemaTerbi
 
-# Working on analog zenly application - Hype Map! Chtck my organization or first pinned repo.
+# Working on analog zenly application - Hype Map! Check my organization or first pinned repo.
+[Telegram]: https://t.me/hypemap
 
 
 
